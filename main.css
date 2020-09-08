@@ -81,7 +81,7 @@
 .menu-branding .portrait {
     height: 250px;
     width: 250px;
-    background: url("../img/ind.jpg");
+    background: url("img/ind.jpg");
     background-position: center;
     border-radius: 50%;
     border: solid 3px pink;
@@ -165,7 +165,7 @@ body {
 }
 
 body#bg-img {
-    background: url("../img/banner.jpg");
+    background: url("img/banner.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
@@ -279,7 +279,7 @@ main#home h1 {
 #about .container1 .bio-image {
     height: 250px;
     width: 250px;
-    background: url("../img/ind.jpg");
+    background: url("img/ind.jpg");
     background-position: center;
     border-radius: 50%;
     border: solid 3px pink;
@@ -1072,7 +1072,7 @@ main#home h1 {
         top: 10px;
         height: 250px;
         width: 250px;
-        background: url("../img/ind.jpg");
+        background: url("img/ind.jpg");
         background-position: center;
         transform: translate3d(0, 100%, 0);
     }
@@ -1151,7 +1151,7 @@ main#home h1 {
     }
     #about .container1 .box1 .bio-image {
         margin: auto;
-        background: url("../img/ind.jpg");
+        background: url("img/ind.jpg");
         background-position: center;
     }
     #about .container1 .box2 {
@@ -1397,7 +1397,7 @@ main#home h1 {
     body header .menu .menu-branding .portrait {
         height: 250px;
         width: 250px;
-        background: url("../img/ind.jpg");
+        background: url("img/ind.jpg");
         background-position: center;
         transform: translate3d(100%, 0, 0);
     }
@@ -1476,7 +1476,7 @@ main#home h1 {
     }
     #about .container1 .box1 .bio-image {
         margin: auto;
-        background: url("../img/ind.jpg");
+        background: url("img/ind.jpg");
         background-position: center;
     }
     #about .container1 .box2 {
